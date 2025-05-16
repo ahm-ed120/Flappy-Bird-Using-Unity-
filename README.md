@@ -30,7 +30,7 @@ A simple yet addictive Flappy Bird clone made using the Unity Game Engine. This 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/flappy-bird-unity.git
+   git clone https://github.com/ahm-ed120/Flappy-Bird-Using-Unity-
 
 
 2. **Open in Unity**
