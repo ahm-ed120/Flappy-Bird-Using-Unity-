@@ -5,10 +5,10 @@ A simple yet addictive Flappy Bird clone made using the Unity Game Engine. This 
 ## 🎮 Gameplay Preview
 
 ### 📷 Get Ready Screen
-![Get Ready](./Screenshot%2025-05-16%161741.png)
+![Get Ready](./Screenshot%202025-05-16%20161827.png)
 
 ### 📷 Game Over Screen
-![Game Over](./Screenshot%202025-05-16%20161827.png)
+![Game Over](./Screenshot%202025-05-16%20161741.png)
 
 > Tap/click to make the bird fly and navigate through the pipes without hitting them. Score a point for every pipe you pass!
 
